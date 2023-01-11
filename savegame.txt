@@ -1,0 +1,16 @@
+TestPlayer
+15
+15
+5
+5
+5
+5
+3
+Goblin
+10
+10
+1
+7
+2
+10
+Doesn't deal much damage but quite agile.
